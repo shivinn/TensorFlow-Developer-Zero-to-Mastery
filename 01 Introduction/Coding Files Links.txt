@@ -1,0 +1,6 @@
+
+004 Zero-to-Mastery-TensorFlow-Deep-Learning-on-GitHub
+https://github.com/mrdbourke/tensorflow-deep-learning
+
+004 TensorFlow-for-Deep-Learning-Book
+https://www.learntensorflow.io
